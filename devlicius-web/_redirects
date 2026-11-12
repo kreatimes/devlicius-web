@@ -1,0 +1,6 @@
+/christmas      https://jona234.github.io/pack-navidad/                  200
+/christmas/*    https://jona234.github.io/pack-navidad/:splat            200
+/apps           https://jona234.github.io/                               200
+/apps/*         https://jona234.github.io/:splat                         200
+/truthordare    https://jona234.github.io/verdadoreto-web/landing.html   200
+/truthordare/*  https://jona234.github.io/verdadoreto-web/:splat         200
